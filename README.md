@@ -20,8 +20,8 @@ This project predicts urban taxi fares using Machine Learning and Streamlit.
 - Interactive Streamlit UI
 
 ## 📁 Files
-- Tripfare.py → Main ML model code
-- Urbantripfare.py → Streamlit application
+- Tripfare.py → Streamlit application
+- Urbantripfare.py →  Main ML model code
 
 ## 🚀 Future Improvements
 - Real-time fare prediction
